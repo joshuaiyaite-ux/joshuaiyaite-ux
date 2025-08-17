@@ -8,6 +8,3 @@ I’m an IT student and video editor with a growing passion for *programming* an
 
 Let’s connect, create, and grow 🚀
 
----
-
-Want it in a design for GitHub or LinkedIn bio too?
