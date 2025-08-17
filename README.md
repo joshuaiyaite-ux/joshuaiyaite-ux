@@ -1,16 +1,13 @@
-## Hi there 👋
+##👋 Hey, I’m Joshua Gabriel  
+I’m an IT student and video editor with a growing passion for *programming* and *cybersecurity*. Currently sharpening my skills in tech while blending creativity through video edits.
 
-<!--
-**joshuaiyaite-ux/joshuaiyaite-ux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Learning how to code, hack (ethically 😉), and solve real-world problems.  
+🎬 I tell stories through visuals—editing is my escape.  
+🌱 Always curious, always exploring.  
+📍 Based in Kenya, building my future one line of code at a time.
 
-Here are some ideas to get you started:
+Let’s connect, create, and grow 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+Want it in a design for GitHub or LinkedIn bio too?
